@@ -1,0 +1,163 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin: 0px;
+    padding: 0px;   
+}
+
+body{
+    background-color: black;
+}
+
+/* header */
+
+.header{
+    height: 130px;
+
+    background-color: gray;
+    font-size:larger;
+}
+
+#mi-cara{
+    padding-top: 10px;
+    padding-left: 45%;
+}
+
+.trollface{
+    width: 100px;
+    height: auto;
+}
+
+.a-nav{
+    color: black;
+    padding-left: 20px;
+
+    text-decoration: none;
+}
+
+.nav{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 35%;
+
+    background-color: gray;
+}
+
+/* main */
+
+.sections{
+    border-radius: 10px;
+
+    margin-top: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+
+    padding: 20px;
+
+    height: 100%;
+    height: auto;
+
+    background-color: darkgray;
+}
+
+.feina, .chiki-web, .no-photo{
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-bottom: 15px;
+    border-radius: 10px;
+
+    width: 80%;
+    height: auto;
+}
+
+.proyecto1, .proyecto2, .proyecto3{
+
+    border-radius: 10px;
+
+    margin-top:15px;
+    padding: 15px;
+
+    background-color: rgb(106, 106, 106);
+}
+
+.proyecto3{
+    margin-bottom: 75px;
+}
+
+.section1-text, .section2-text, .section3-text, .all-abilities{
+    font-size: larger;
+
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.illuminati, .sad-frog-dance, .lol-face{
+    padding-left: 47%;
+
+    width: 75px;
+    height: auto;
+}
+
+.icon-language{
+    width: 75px;
+    height: auto;
+}
+
+.all-abilities{
+    padding-top: 5%;
+    padding-left: 20%;
+}
+
+/* contacte */
+
+#contacte{
+    border-radius: 10px;
+
+
+    width: 125px;
+    height: 175px;
+
+    margin-top: 25px;
+    margin-left: 40%;
+
+    padding: 2%;
+
+    background-color: gainsboro;
+}
+
+input{
+    width: 125px;
+    margin-top:5px;
+}
+
+.enviar{
+
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.missatge{
+    height: 50px;;
+}
+
+/* footer */
+
+.footer{
+    width: 100%;
+    height: 175px;
+
+    margin-top: 50px;
+    
+    background-color: gray;
+}
+
+.redes{
+    margin-left: 38%;
+    padding-top:75px;
+}
+
+.logo{
+    width: 50px;
+    height: auto;
+    padding-left: 15px;
+}
