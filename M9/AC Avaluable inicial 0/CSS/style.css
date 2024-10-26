@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* navbar */
+
+.Hispasonic{
+
+    height: 75px;
+    width: auto;
+    
+}
+
+.header{
+    display: flex;
+    height: auto;
+    background-color: #3a6caf;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-button{
+    
+    border-color: #34629e;
+    border-radius: 5px;
+    background-color: #34629e;
+    color: white;
+    padding: 10px;
+
+}
+
+.nav-button:hover{
+    background-color: #254672;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+nav a{
+    padding-right: 25px;
+    padding-left: 15px;
+}
+
+nav{
+    padding-right: 15px;
+}
+
+/* Template */
+
+.photo{
+
+    height: 550px;
+    width: 100%;
+}
+
+.guitarra{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.template{
+    padding-right: 20px;
+    padding-left: 20px;
+    display:flex;
+}
+
+.right{
+
+    width: 35%;
+
+    padding: 20px;
+    background-color: rgb(213, 213, 213);
+}
+
+
+
+.logo{
+
+    padding-left: 2%;
+    height: 35px;
+    width: 35px;
+}
+
+
+
+.left{
+    text-align: justify;
+    padding: 5px;
+    background-color: rgb(213, 213, 213)
+}
+
+.img-news{
+    padding: 5px;
+}
+
+.news{
+    margin: 10px;
+
+    display: flex;
+}
+

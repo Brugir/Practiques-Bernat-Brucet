@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\C# del Alex\\AC1 def\\AC1 def.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\GIT HUB DE LOS COJONES\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC2_No_avaluable\\AC1 def.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\C# del Alex\\AC1 def\\AC1 def.csproj": {
+    "C:\\Users\\Acer\\Desktop\\GIT HUB DE LOS COJONES\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC2_No_avaluable\\AC1 def.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\C# del Alex\\AC1 def\\AC1 def.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\GIT HUB DE LOS COJONES\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC2_No_avaluable\\AC1 def.csproj",
         "projectName": "AC1 def",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\C# del Alex\\AC1 def\\AC1 def.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\GIT HUB DE LOS COJONES\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC2_No_avaluable\\AC1 def.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\C# del Alex\\AC1 def\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\GIT HUB DE LOS COJONES\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC2_No_avaluable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
