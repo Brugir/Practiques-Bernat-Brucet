@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\bin\Debug\net8.0\AC3.exe
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\bin\Debug\net8.0\AC3.deps.json
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\bin\Debug\net8.0\AC3.runtimeconfig.json
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\bin\Debug\net8.0\AC3.dll
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\bin\Debug\net8.0\AC3.pdb
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\obj\Debug\net8.0\AC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\obj\Debug\net8.0\AC3.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\obj\Debug\net8.0\AC3.AssemblyInfo.cs
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\obj\Debug\net8.0\AC3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\obj\Debug\net8.0\AC3.dll
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\obj\Debug\net8.0\refint\AC3.dll
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\obj\Debug\net8.0\AC3.pdb
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\obj\Debug\net8.0\AC3.genruntimeconfig.cache
+C:\Users\Acer\Desktop\DAW2\MP3 - Programación\UF1\AC3\obj\Debug\net8.0\ref\AC3.dll
