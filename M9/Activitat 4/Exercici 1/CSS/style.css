@@ -1,0 +1,78 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.bloque{
+
+    border-radius: 10px;
+
+    width: 500px;
+    height: 400px;
+
+    margin-left: 35%;
+    margin-top: 5%;
+
+    display: grid;
+
+    grid-template-areas: 
+    "cuadrado cuadrado circulo1 circulo2"
+    "cuadrado cuadrado circulo3 circulo4"
+    "circulo5 circulo6 circulo7 circulo8"
+    ;
+
+    background-color: black;
+
+}
+
+.cuadrado{
+    border-radius: 10px;
+}
+
+.circulo1, .circulo2, .circulo3, .circulo4, .circulo5, .circulo6, .circulo7, .circulo8{
+
+    border-radius: 100%;
+
+}
+
+.cuadrado, .circulo1, .circulo2, .circulo3, .circulo4, .circulo5, .circulo6, .circulo7, .circulo8{
+
+    background-color: gray;
+
+    margin: 10px;
+}
+
+.cuadrado{
+    grid-area: cuadrado;
+}
+
+.circulo1{
+    grid-area: circulo1;
+}
+
+.circulo2{
+    grid-area: circulo2;
+}
+
+.circulo3{
+    grid-area: circulo3;
+}
+
+.circulo4{
+    grid-area: circulo4;
+}
+.circulo5{
+    grid-area: circulo5;
+}
+
+.circulo6{
+    grid-area: circulo6;
+}
+
+.circulo7{
+    grid-area: circulo7;
+}
+
+.circulo8{
+    grid-area: circulo8;
+}

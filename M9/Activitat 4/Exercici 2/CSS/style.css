@@ -1,0 +1,110 @@
+*{
+
+    /* padding: 0px;
+    margin: 0px; */
+
+    color: green;
+}
+
+body{
+
+    margin-left: 35%;
+    background-color: black;
+}
+
+.bloque{
+
+    width: 500px;
+    height: 400px;
+
+    /* margin-left: 35%;
+    margin-top: 5%; */
+
+    display: grid;
+
+    grid-template-areas: 
+    "void1 item1 item2 void2"
+    "item3 item4 item5 item6"
+    "item7 item8 void3 void4"
+    ;
+
+}
+
+/* Imagenes */
+
+.image1{
+    width: 125px;
+    height: auto;
+}
+
+.image2{
+    width: 125px;
+    height: auto;
+}
+
+/* Bloques vacios */
+
+.void1, .void2, .void3, .void4{
+    /* background-color: darkred; */
+
+}
+
+.void1{
+    grid-area: void1;
+}
+
+.void2 {
+    grid-area: void2;
+}
+
+.void3{
+    grid-area: void3;
+}
+
+.void4{
+    grid-area: void4;
+}
+
+/* Items */
+
+.item1, .item2, .item3, .item4, .item5, .item6, .item7, .item8{
+    /* background-color: darkblue; */
+
+    margin: 2px;
+    padding: 5px;
+
+    border: 4px solid green;
+}
+
+.item1{
+    grid-area: item1;
+}
+
+.item2{
+    grid-area: item2;
+}
+
+
+.item3{
+    grid-area: item3;
+}
+
+.item4{
+    grid-area: item4;
+}
+
+.item5{
+    grid-area: item5;
+}
+
+.item6{
+    grid-area: item6;
+}
+
+.item7{
+    grid-area: item7;
+}
+
+.item8{
+    grid-area: item8;
+}
