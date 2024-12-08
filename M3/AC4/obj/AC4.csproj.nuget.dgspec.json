@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF1\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\AC4.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\AC4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF1\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\AC4.csproj": {
+    "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\AC4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF1\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\AC4.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\AC4.csproj",
         "projectName": "AC4",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF1\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\AC4.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\AC4.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF1\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\AC4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
