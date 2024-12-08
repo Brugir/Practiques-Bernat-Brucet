@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\bin\Debug\net8.0\AC5_FINAL_UF.exe
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\bin\Debug\net8.0\AC5_FINAL_UF.deps.json
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\bin\Debug\net8.0\AC5_FINAL_UF.runtimeconfig.json
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\bin\Debug\net8.0\AC5_FINAL_UF.dll
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\bin\Debug\net8.0\AC5_FINAL_UF.pdb
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\AC5_FINAL_UF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\AC5_FINAL_UF.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\AC5_FINAL_UF.AssemblyInfo.cs
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\AC5_FINAL_UF.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\AC5_FINAL_UF.sourcelink.json
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\AC5_FINAL_UF.dll
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\refint\AC5_FINAL_UF.dll
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\AC5_FINAL_UF.pdb
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\AC5_FINAL_UF.genruntimeconfig.cache
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\AC5_FINAL_UF\obj\Debug\net8.0\ref\AC5_FINAL_UF.dll
