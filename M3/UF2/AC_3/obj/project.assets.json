@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\AC_1\\AC_1.csproj",
-      "projectName": "AC_1",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\AC_1\\AC_1.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\AC_3\\AC_3.csproj",
+      "projectName": "AC_3",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\AC_3\\AC_3.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\AC_1\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\AC_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

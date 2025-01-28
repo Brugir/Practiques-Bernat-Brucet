@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\bin\Debug\net8.0\AC_3.exe
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\bin\Debug\net8.0\AC_3.deps.json
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\bin\Debug\net8.0\AC_3.runtimeconfig.json
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\bin\Debug\net8.0\AC_3.dll
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\bin\Debug\net8.0\AC_3.pdb
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\AC_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\AC_3.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\AC_3.AssemblyInfo.cs
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\AC_3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\AC_3.sourcelink.json
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\AC_3.dll
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\refint\AC_3.dll
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\AC_3.pdb
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\AC_3.genruntimeconfig.cache
+C:\Users\Acer\Desktop\DAW2\Practiques\Practiques-Bernat-Brucet\M3\UF2\AC_3\obj\Debug\net8.0\ref\AC_3.dll
