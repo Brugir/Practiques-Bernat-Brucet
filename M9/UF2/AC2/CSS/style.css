@@ -1,0 +1,184 @@
+/* Estilos generales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.audio-image{
+    width: 500px;
+    height: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+}
+
+h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 2.5em;
+}
+
+main {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.audio-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.audio-image {
+    width: 30%; /* Imagen ocupa el 30% del espacio */
+    text-align: center;
+}
+
+.audio-image img {
+    width: 100%; /* La imagen se adapta al tamaño */
+    height: auto;
+    border-radius: 10px;
+}
+
+.audio-player {
+    width: 70%; /* Reproductor grande */
+    display: flex;
+    justify-content: center;
+}
+
+audio {
+    width: 100%;
+    height: 80px; /* Tamaño grande para el reproductor */
+    border-radius: 10px;
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: #333;
+    color: #fff;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: #9c4dcc; /* Nuevo color morado más claro */
+    border-radius: 50%;
+}
+
+.audio-info {
+    width: 25%; /* Columna con los botones a la derecha */
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.audio-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.audio-option {
+    background-color: #9c4dcc; /* Nuevo color morado más claro */
+    border: none;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.audio-option:hover {
+    background-color: #b66ad5; /* Morado un poco más claro cuando se pasa el ratón */
+}
+
+.audio-details {
+    margin-top: 20px;
+    background-color: #222;
+    padding: 20px;
+    border-radius: 5px;
+    color: #bbb;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin: 8px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #bbb;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Responsividad: Ajustes para pantallas pequeñas */
+@media (max-width: 768px) {
+    main {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .audio-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .audio-player {
+        width: 90%; /* En pantallas más pequeñas, el reproductor ocupa un mayor porcentaje del ancho */
+    }
+
+    .audio-info {
+        width: 90%; /* Los botones y la información también se ajustan a pantallas pequeñas */
+    }
+
+    .audio-option {
+        padding: 12px; /* Botones un poco más pequeños en pantallas más pequeñas */
+        font-size: 14px;
+    }
+
+    audio {
+        height: 60px; /* Tamaño de audio más pequeño en pantallas pequeñas */
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2em; /* Reducir el tamaño de la fuente del título en pantallas muy pequeñas */
+    }
+
+    .audio-option {
+        padding: 10px; /* Botones aún más pequeños */
+        font-size: 12px;
+    }
+
+    audio {
+        height: 50px; /* Reducir el tamaño del reproductor aún más en pantallas muy pequeñas */
+    }
+}

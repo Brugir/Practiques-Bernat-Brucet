@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor de Audio</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <header>
+        <h1>UF2 AC2 REPRODUCTOR DE AUDIO</h1>
+    </header>
+
+    <main>
+        <!-- Contenedor para el reproductor y botones -->
+        <div class="audio-container">
+            <div class="audio-player">
+                <!-- Reproductor de audio -->
+                <audio id="audioPlayer" controls>
+                    <source id="audioSource">
+                    Tu navegador no soporta el elemento de audio.
+                </audio>
+            </div>
+
+            
+
+            <div class="audio-info">
+                <!-- Botones para cambiar los audios -->
+                <div class="audio-options">
+                    <button class="audio-option" onclick="changeAudio('audio/MAYDAY.mp3', 'MP3')">MP3 - 192kbps</button>
+                    <button class="audio-option" onclick="changeAudio('audio/MAYDAY.ogg', 'OGG')">OGG - 128kbps</button>
+                    <button class="audio-option" onclick="changeAudio('audio/MAYDAY.wav', 'WAV')">WAV - 44100Hz</button>
+                    <button class="audio-option" onclick="changeAudio('audio/MAYDAY.flac', 'FLAC')">FLAC - Lossless</button>
+                </div>
+
+                <!-- Información del archivo de audio -->
+                <div id="audioDetails" class="audio-details">
+                    <p><strong>Detalles del archivo:</strong></p>
+                    <ul>
+                        <li>Formato: -</li>
+                        <li>Duración: -:--</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    
+    </main>
+
+    
+
+    <footer>
+        <p>Bernat Brucet</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

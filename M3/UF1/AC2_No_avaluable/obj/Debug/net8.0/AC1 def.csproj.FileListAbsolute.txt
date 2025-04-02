@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\obj\Debug\net8.0\AC1 def.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\obj\Debug\net8.0\AC1 def.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\obj\Debug\net8.0\AC1 def.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\obj\Debug\net8.0\AC1 def.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\bin\Debug\net8.0\AC1 def.exe
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\bin\Debug\net8.0\AC1 def.deps.json
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\bin\Debug\net8.0\AC1 def.runtimeconfig.json
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\bin\Debug\net8.0\AC1 def.dll
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\bin\Debug\net8.0\AC1 def.pdb
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\obj\Debug\net8.0\AC1 def.dll
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\obj\Debug\net8.0\refint\AC1 def.dll
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\obj\Debug\net8.0\AC1 def.pdb
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\obj\Debug\net8.0\AC1 def.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C# del Alex\AC1 def\obj\Debug\net8.0\ref\AC1 def.dll
