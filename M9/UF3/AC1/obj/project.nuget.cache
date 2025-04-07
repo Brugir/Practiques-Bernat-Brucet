@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMpOUQPXSWi3/yb9JcE+id9rDUIf08s9iNjEMQKnvlQHXTxn8UuAuYtpdtjzwuDxMVLcxgiFN5bKfKn5n8xA2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF3\\AC1\\AC1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

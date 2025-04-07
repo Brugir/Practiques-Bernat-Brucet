@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\M9_UF2_PF_Bernat_Brucet\\M9_UF2_PF_Bernat_Brucet.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\Projecte final\\M9_UF2_PF_Bernat_Brucet.csproj",
       "projectName": "M9_UF2_PF_Bernat_Brucet",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\M9_UF2_PF_Bernat_Brucet\\M9_UF2_PF_Bernat_Brucet.csproj",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\Projecte final\\M9_UF2_PF_Bernat_Brucet.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\M9_UF2_PF_Bernat_Brucet\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\Projecte final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

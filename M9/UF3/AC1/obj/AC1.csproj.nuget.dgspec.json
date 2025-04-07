@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\Projecte final\\M9_UF2_PF_Bernat_Brucet.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF3\\AC1\\AC1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\Projecte final\\M9_UF2_PF_Bernat_Brucet.csproj": {
+    "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF3\\AC1\\AC1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\Projecte final\\M9_UF2_PF_Bernat_Brucet.csproj",
-        "projectName": "M9_UF2_PF_Bernat_Brucet",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\Projecte final\\M9_UF2_PF_Bernat_Brucet.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF3\\AC1\\AC1.csproj",
+        "projectName": "AC1",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF3\\AC1\\AC1.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\DAW2\\Practiques\\Practiques-Bernat-Brucet\\M3\\UF2\\Projecte final\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\DAW2\\MP3 - Programación\\UF3\\AC1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
